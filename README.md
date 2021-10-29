@@ -3,15 +3,22 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Joe</h1>
 <h3 align="center">Hi Everyone, I am a Coder. I can help you with coding do read more about me down BELOW👇👇.</h3>
 
+
+## 🙋 About Me
+
+- 🕹️I am a gamer.
+- 🚩I am from USA.
+- 🥅My dream is to make a AI Bot like SOPHIA
+- 🖥️I have 2 years of experiance in CODING
+
 ## 🐱‍💻 My Projects
 
 - 🤖 Discord Bots
 - 🛰️ Science Games 
 - 🎮 Game Hacks
 - 💻 Creating Web Pages
-- 
 
-
+In Future I'll make big projects in the Future
 
 
 ## 🚀 Languages and Tools I use in my PROJECTS:
@@ -26,5 +33,10 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
 </p>
 
+## 🙏 Thank You
+
+- 🎉 Thanks for going through my PROFILE
+
+- 👋👋 Bye
 
 <br/>
