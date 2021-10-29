@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Joe</h1>
 <h3 align="center">Hi Everyone, I am a Coder. I can help you with coding do read more about me down BELOW👇👇.</h3>
 
-##🐱‍💻 My Projects
+## 🐱‍💻 My Projects
 
 - 🤖 Discord Bots
 - 🛰️ Science Games 
