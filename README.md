@@ -9,7 +9,7 @@
 - 🕹️I am a gamer.
 - 🚩I am from USA.
 - 🥅My dream is to make a AI Bot like SOPHIA
-- 🖥️I have 2 years of experiance in CODING
+- 🖥️I have 2 years of experience in CODING
 
 ## 🐱‍💻 My Projects
 
