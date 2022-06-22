@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="50px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Joe Anshul</h1>
+<h1 align="center">Hi, I'm Joe Anshul</h1>
 <h3 align="center">Hi Everyone, I am a Coder. I can help you with coding do read more about me down BELOW👇👇.</h3>
 
 
@@ -8,8 +8,6 @@
 
 - 🕹️I am a gamer.
 - 🚩I am from USA.
-- 🥅My dream is to make a AI Bot like SOPHIA
-- 🖥️I have 2 years of experience in CODING
 
 ## 🐱‍💻 My Projects
 
